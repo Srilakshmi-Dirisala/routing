@@ -1,0 +1,6 @@
+.img {
+  /* The image used */
+  background-image: url("/public/images/boximg.jfif");
+  height: 800px;
+  background-size: cover;
+}
